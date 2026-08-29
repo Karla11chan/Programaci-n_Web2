@@ -55,3 +55,5 @@ switch (opcion){
 }
 
 //nombre, operadores, if y este, son tareas 
+//Tarea: en classroom bajo una nomenclatura, primera tarea, se comprimen en zip o rar.
+// se pone t1jsps_Fernandez_Chan_Karla_Sofía
