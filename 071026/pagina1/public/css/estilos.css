@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+
+}
+
+header{
+    background-color: rgb(231, 161, 231);
+    padding: 10px 0;
+    text-align: center;
+    color: darkpurple;
+
+}
+
+main{
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(231, 161, 231);
+    padding: 10px 0;
+    text-align: center;
+    color: darkblue;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}

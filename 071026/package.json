@@ -1,0 +1,20 @@
+{
+  "name": "071026",
+  "version": "1.0.0",
+  "description": "prueba 2",
+  "homepage": "https://github.com/Karla11chan/Programaci-n_Web2#readme",
+  "bugs": {
+    "url": "https://github.com/Karla11chan/Programaci-n_Web2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karla11chan/Programaci-n_Web2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
