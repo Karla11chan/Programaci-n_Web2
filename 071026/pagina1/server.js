@@ -23,6 +23,26 @@ app.get('/datos', (req, res) => {
     res.sendFile(__dirname + '/public/datos.html');
 } );
 
+app.get('/libros', (req, res) => {
+    res.sendFile(__dirname + '/public/libros.html');
+} );
+
+app.get('/musicales', (req, res) => {
+    res.sendFile(__dirname + '/public/musicales.html');
+} );
+
+app.get('/idiomas', (req, res) => {
+    res.sendFile(__dirname + '/public/idiomas.html');
+} );
+
+app.get('/sio', (req, res) => {
+    res.sendFile(__dirname + '/public/sio.html');
+} );
+
+app.get('/alexwarren', (req, res) => {
+    res.sendFile(__dirname + '/public/alexwarren.html');
+} );
+
  app.listen(port, () => {
     console.log(`Servidor escuchando en http://localhost:${port}`);
 }  );
